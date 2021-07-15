@@ -1,0 +1,4 @@
+results/*
+venv/*
+.DS_Store
+.idea
